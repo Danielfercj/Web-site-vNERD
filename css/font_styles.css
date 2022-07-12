@@ -1,0 +1,210 @@
+/* Fuentes nerds para parrafos */
+@font-face {
+    font-family: mononoki-Regular;
+    src: url("/assets/fonts/Mononoki/mononoki-Regular.ttf");
+}
+@font-face {
+    font-family: mononoki-Italic;
+    src: url("/assets/fonts/Mononoki/mononoki-Italic.ttf");
+}
+@font-face {
+    font-family: mononoki-Bold;
+    src: url("/assets/fonts/Mononoki/mononoki-Bold.ttf");
+}
+@font-face {
+    font-family: mononoki-Bold-Italic;
+    src: url("/assets/fonts/Mononoki/mononoki-Bold-Italic.ttf");
+}
+@font-face {
+    font-family: DaddyTimeMono;
+    src: url("/assets/fonts/DaddyTimeMono/DaddyTimeMono.ttf");
+}
+/* Fuente para titulos y adornos */
+@font-face {
+    font-family: BlackOpsOne-Regular;
+    src: url("/assets/fonts/Black_Ops_One/BlackOpsOne-Regular.ttf");
+}
+@font-face {
+    font-family: BungeeShade-Regular;
+    src: url("/assets/fonts/Bungee_Shade/BungeeShade-Regular.ttf");
+}
+@font-face {
+    font-family: Chewy-Regular;
+    src: url("/assets/fonts/Chewy/Chewy-Regular.ttf");
+}
+@font-face {
+    font-family: FrederickatheGreat-Regular;
+    src: url("/assets/fonts/Fredericka_the_Great/FrederickatheGreat-Regular.ttf");
+}
+/* INICIO */
+/* Header */
+.menu_principal div a {
+    font-family: mononoki-Bold;
+    color: #FF9400;
+}
+
+/* Contenido */
+.llamada_accion_1 h1 {
+    font-family: BlackOpsOne-Regular;
+}
+.llamada_accion_1 p, .llamada_accion_1 form {
+    font-family: mononoki-Regular;
+}
+
+.problemas_cliente_i h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.problemas_cliente_i article, .problemas_cliente form {
+    font-family: mononoki-Regular;
+}
+
+.mini_bio_i h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.mini_bio_i h3, .mini_bio_i p, .mini_bio_i form {
+    font-family: mononoki-Regular;
+}
+
+.enlaces_i h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.enlaces_i article h3 {
+    font-family: BlackOpsOne-Regular;
+}
+.enlaces_i article p, .enlaces_i article form {
+    font-family: mononoki-Regular;
+}
+.contenido_p_inicio {
+    color: #0969A2;
+}
+/* Footer */
+footer {
+    font-family: mononoki-Regular;
+    color: #0969A2;
+}
+/* CONTACTO (EN EL FOOTER)*/
+/* Contacto y redes sociales*/
+.contactanos_footer p:first-of-type, .contactanos_footer span, .redes_footer {
+    font-size: 18px;
+    font-family: mononoki-Bold;
+}
+
+/* QUIENES SOMOS */
+/* Header */
+.menu_estandar div a {
+    font-family: mononoki-Bold;
+    color: #0969A2;
+}
+
+/* Contenido */
+.mision_vision h1, .mision_vision_contenedor article h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.mision_vision_contenedor article p, .mision_vision_contenedor article ul {
+    font-family: mononoki-Regular;
+}
+
+.porque_lo_hacemos h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.porque_lo_hacemos p {
+    font-family: mononoki-Regular;
+}
+
+.servicios_quienes_somos h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.servicios_quienes_somos form {
+    font-family: mononoki-Regular;
+}
+
+.contenido_p_quienes_somos {
+    color: #0969A2;
+}
+
+/* SERVICIOS */
+/* Contenido */
+.contenido_p_servicios {
+    color: #0969A2;
+}
+.contenido_p_servicios h1, .contenido_p_servicios h2, .contenido_p_servicios h3 {
+    font-family: BlackOpsOne-Regular;
+}
+.contenido_p_servicios form, .contenido_p_servicios p, .contenido_p_servicios a {
+    font-family: mononoki-Regular;
+}
+.problema_cliente_contenedor_s h3 {
+    font-family: mononoki-Regular;
+}
+
+/* PORTAFOLIO */
+/* Contenido */
+.contenido_p_portafolio {
+    color: #0969A2;
+}
+.contenido_p_portafolio h1, .contenido_p_portafolio h2{
+    font-family: BlackOpsOne-Regular;
+}
+.trabajos_realizados_contenedor_p article a {
+    font-family: BlackOpsOne-Regular;
+    color: #0969A2;
+}
+.contenido_p_portafolio p, .contenido_p_portafolio form {
+    font-family: mononoki-Regular;
+}
+.trabajos_realizados_contenedor_p article span {
+    font-size: 18px;
+    font-family: mononoki-Bold;
+}
+
+/* Blog */
+/* Contenido */
+.contenido_p_blog {
+    color: #0969A2;
+}
+.contenido_p_blog h1, .contenido_p_blog h2{
+    font-family: BlackOpsOne-Regular;
+}
+.seccion_articulos_contenedor_b article a {
+    font-family: BlackOpsOne-Regular;
+    color: #0969A2;
+}
+.contenido_p_blog p, .contenido_p_blog form {
+    font-family: mononoki-Regular;
+}
+.seccion_articulos_contenedor_b article span {
+    font-size: 18px;
+    font-family: mononoki-Bold;
+}
+
+/* ARTICULOS */
+/* Contenido */
+.contenido_p_articulo_estandar {
+    color: #0969A2;
+}
+.contenido_p_articulo_estandar h1, .contenido_p_articulo_estandar h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.contenido_p_articulo_estandar p {
+    font-family: mononoki-Regular;
+}
+.contenido_p_articulo_estandar span {
+    font-size: 28px;
+    font-family: mononoki-Bold;
+}
+
+/* 404 */
+/* Contenido */
+.contenido_p_404 {
+    color: #0969A2;
+}
+.contenido_p_404 h1, .contenido_p_404 h2 {
+    font-family: BlackOpsOne-Regular;
+}
+.contenido_p_404 p, .contenido_p_404 ul {
+    font-family: mononoki-Regular;
+}
+.solucion_404 {
+    font-size: 18px;
+    font-family: mononoki-Bold;
+}
